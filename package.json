@@ -1,0 +1,25 @@
+{
+  "name": "doctree",
+  "version": "1.0.0",
+  "description": "Note daily",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenkristian/Doctree.git"
+  },
+  "keywords": [
+    "Document",
+    "Personal",
+    "Application",
+    "Work"
+  ],
+  "author": "kristian ruben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenkristian/Doctree/issues"
+  },
+  "homepage": "https://github.com/rubenkristian/Doctree#readme"
+}
