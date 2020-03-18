@@ -84,7 +84,7 @@ function App() {
         dasds
       </div>
       <Fab color="primary" aria-label="add" className={classes.fab} onClick={handleOpen}>
-        <AddIcon/>
+       <AddIcon/>
       </Fab>
       <Modal
         aria-labelledby="simple-modal-title"
